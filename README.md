@@ -211,6 +211,9 @@ Some important insights from the analysis:
 - A small group of **top customers contributes a significant share of revenue and profit**.
 - Some **states are loss-making despite active sales**, which may indicate pricing, shipping, or discount problems.
 - **Category and regional analysis** helps identify where the business should focus to improve profitability.
+- Technology generated the highest profit.
+- Furniture showed lower margins despite high sales.
+- Texas recorded the largest losses.
 
 ---
 
